@@ -4,7 +4,7 @@ require('dotenv').config();
 
 // // Connect to MongoDB
 let app = express();
-
+let ps = "";
 mongoose.connect(process.env.DBURL).then(() => {
     console.log("Connected to MongoDB");
     app.listen(process.env.PORT, () => {
