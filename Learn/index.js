@@ -1,0 +1,13 @@
+let express = require('express');
+var mongoose = require('mongoose');
+require('dotenv').config();
+
+// // Connect to MongoDB
+let app = express();
+
+mongoose.connect(process.env.DBURL).then(() => {
+    console.log("Connected to MongoDB");
+    app.listen(process.env.PORT, () => {
+        console.log("Server is running on port " + process.env.PORT);
+    });
+});
