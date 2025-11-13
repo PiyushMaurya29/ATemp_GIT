@@ -1,0 +1,59 @@
+[
+  {
+    "id": 1,
+    "name": "Wireless Headphones",
+    "price": 79.99,
+    "description": "High-quality wireless headphones with noise cancellation and 30-hour battery life. Perfect for music lovers and professionals who need crystal-clear audio quality.",
+    "image": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?w=800&h=600&fit=crop"
+  },
+  {
+    "id": 2,
+    "name": "Smart Watch",
+    "price": 199.99,
+    "description": "Feature-rich smartwatch with fitness tracking, heart rate monitor, and smartphone connectivity. Stay connected and track your health on the go.",
+    "image": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?w=800&h=600&fit=crop"
+  },
+  {
+    "id": 3,
+    "name": "Laptop Stand",
+    "price": 29.99,
+    "description": "Ergonomic aluminum laptop stand that improves posture and workspace organization. Adjustable height for maximum comfort.",
+    "image": "https://images.unsplash.com/photo-1527864550417-7fd91fc51a46?w=800&h=600&fit=crop"
+  },
+  {
+    "id": 4,
+    "name": "Mechanical Keyboard",
+    "price": 89.99,
+    "description": "RGB backlit mechanical keyboard with customizable keys and premium switches. Experience the satisfying click with every keystroke.",
+    "image": "https://images.unsplash.com/photo-1541140532154-b024d705b90a?w=800&h=600&fit=crop"
+  },
+  {
+    "id": 5,
+    "name": "USB-C Hub",
+    "price": 39.99,
+    "description": "Multi-port USB-C hub with HDMI, USB 3.0, and SD card reader support. Expand your connectivity options instantly.",
+    "image": "https://images.unsplash.com/photo-1625842268584-8f3296236761?w=800&h=600&fit=crop"
+  },
+  {
+    "id": 6,
+    "name": "Wireless Mouse",
+    "price": 24.99,
+    "description": "Ergonomic wireless mouse with precision tracking and long battery life. Comfortable design for extended use.",
+    "image": "https://images.unsplash.com/photo-1527814050087-3793815479db?w=800&h=600&fit=crop"
+  },
+  {
+    "id": 7,
+    "name": "Wireless Speaker",
+    "price": 129.99,
+    "description": "Premium portable wireless speaker with 360-degree sound, waterproof design, and 20-hour battery life. Perfect for parties and outdoor adventures.",
+    "image": "https://images.unsplash.com/photo-1608043152269-423dbba4e7e1?w=800&h=600&fit=crop"
+  },
+  {
+    "id": 8,
+    "name": "Premium Cotton Underwear",
+    "price": 19.99,
+    "description": "Comfortable and breathable cotton underwear with soft elastic waistband. Available in multiple sizes and colors. Perfect for everyday wear with premium quality fabric.",
+    "image": "https://images.unsplash.com/photo-1596755094514-f87e34085b2c?w=800&h=600&fit=crop"
+  }
+]
+
