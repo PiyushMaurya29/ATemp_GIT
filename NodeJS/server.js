@@ -6,3 +6,5 @@ console.log(b);
 
 let c = 77;
 console.log(c);
+
+let d = 66;
