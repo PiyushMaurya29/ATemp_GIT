@@ -7,6 +7,8 @@ mongoose.connect(mongoURL, {
     useUnifiedTopology: true
 });
 
+
+let c = '';
 const db = mongoose.connection;
 
 
