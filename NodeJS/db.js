@@ -22,3 +22,5 @@ db.on('disconnected', () => {
 });
 
 module.exports = db;
+
+let ddc = "";
