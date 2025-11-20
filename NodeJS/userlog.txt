@@ -1,4 +1,0 @@
-{"uid":-1,"gid":-1,"username":"Maury","homedir":"C:\\Users\\Maury","shell":null}
-{"uid":-1,"gid":-1,"username":"Maury","homedir":"C:\\Users\\Maury","shell":null}
-{"uid":-1,"gid":-1,"username":"Maury","homedir":"C:\\Users\\Maury","shell":null}
-{"uid":-1,"gid":-1,"username":"Maury","homedir":"C:\\Users\\Maury","shell":null}
