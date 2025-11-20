@@ -10,8 +10,6 @@ mongoose.connect(mongoURL, {
 
 let c = '';
 const db = mongoose.connection;
-
-
 db.on('connected', () => {
     console.log('Connected to MongoDB');
 });
