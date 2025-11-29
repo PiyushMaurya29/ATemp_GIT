@@ -6,3 +6,5 @@ let c = "";
 let b = 5;
 
 length.log(b);
+
+let d = "hello";
