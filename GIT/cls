@@ -1,0 +1,8 @@
+^367bb60 (Piyush Maurya 2025-11-29 22:20:41 +0530 1) let a = "djdj";
+^367bb60 (Piyush Maurya 2025-11-29 22:20:41 +0530 2) console.log(a);
+^367bb60 (Piyush Maurya 2025-11-29 22:20:41 +0530 3) 
+^367bb60 (Piyush Maurya 2025-11-29 22:20:41 +0530 4) let c = "";
+^367bb60 (Piyush Maurya 2025-11-29 22:20:41 +0530 5) 
+45a350b4 (Piyush Maurya 2025-11-29 22:22:19 +0530 6) let add = (b) => {
+45a350b4 (Piyush Maurya 2025-11-29 22:22:19 +0530 7)   c += b;
+45a350b4 (Piyush Maurya 2025-11-29 22:22:19 +0530 8) } 
