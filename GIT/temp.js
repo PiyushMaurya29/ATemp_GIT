@@ -1,11 +1,6 @@
 let a = "djdj";
 console.log(a);
 
-let c = "";
+let b = 123;
+console.log(b);
 
-let z = 123;
-
-let obj = {
-  name: "example",
-  value: 42
-};
