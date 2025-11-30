@@ -1,5 +1,5 @@
 let a = "djdj";
 console.log(a);
 
-let b = 123;
+let b = 42;
 console.log(b);
