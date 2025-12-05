@@ -1,11 +1,8 @@
-console.log("Hello, World!");
+const fs = require("fs");
+fs.writeFileSync("temp.txt", "This is a temporary file NEW LOL.");
+console.log("Temporary file created.");
 
-function add(a, b) {
-    return a + b;
-}
-
-module.exports = { add };
-
-
-
-let result = add(2, 3);
+setTimeout(() => {
+  fs.unlinkSync("temp.txt");
+  console.log("Temporary file deleted.");
+}, 5000);
