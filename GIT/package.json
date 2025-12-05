@@ -1,0 +1,20 @@
+{
+  "name": "git",
+  "version": "1.0.0",
+  "main": "temp.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node temp.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PiyushMaurya29/ATemp_GIT.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/PiyushMaurya29/ATemp_GIT/issues"
+  },
+  "homepage": "https://github.com/PiyushMaurya29/ATemp_GIT#readme",
+  "description": ""
+}
