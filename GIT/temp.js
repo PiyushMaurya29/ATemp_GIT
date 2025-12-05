@@ -6,3 +6,5 @@ setTimeout(() => {
   fs.unlinkSync("temp.txt");
   console.log("Temporary file deleted.");
 }, 5000);
+
+// This script creates a temporary file and deletes it after 5 seconds.
