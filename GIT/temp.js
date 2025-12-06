@@ -1,0 +1,1 @@
+let c = 'This is a test string';
