@@ -21,3 +21,5 @@ let lines = data.split("\n");
 lines.forEach((line, index) => {
   console.log(`Line ${index + 1}: ${line}`);
 });
+
+let parsedUrl = url.parse("https://www.example.com/path?name=JohnDoe", true);
