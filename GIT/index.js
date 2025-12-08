@@ -17,3 +17,7 @@ app.listen(8000, () => {
 });
 
 let data = fs.readFileSync("data.txt", "utf-8");
+let lines = data.split("\n");
+lines.forEach((line, index) => {
+  console.log(`Line ${index + 1}: ${line}`);
+});
