@@ -17,4 +17,3 @@ app.listen(8000, () => {
 });
 
 let data = fs.readFileSync("data.txt", "utf-8");
-console.log("File Data:", data);
