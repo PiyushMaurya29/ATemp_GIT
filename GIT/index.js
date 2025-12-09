@@ -6,3 +6,5 @@ console.log("This is index.js file");
 function greet() {
   console.log("Hello from greet function!");
 }
+
+greet();
