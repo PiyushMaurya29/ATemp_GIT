@@ -7,3 +7,5 @@ export { a, b };
 export function greet() {
     return a + b;
 }
+
+export default greet; 
