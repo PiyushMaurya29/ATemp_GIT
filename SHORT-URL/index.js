@@ -6,3 +6,6 @@ console.log('File written successfully.');
 
 let data = fs.readFileSync('output.txt', 'utf8');
 console.log('File content:', data);
+
+fs.unlinkSync('output.txt');
+console.log('File deleted successfully.');
