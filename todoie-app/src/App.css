@@ -1,0 +1,80 @@
+.app {
+  min-height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.todo-container {
+  background: #ffffff;
+  width: 320px;
+  border-radius: 20px;
+  padding: 20px;
+}
+
+.todo-title {
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 15px;
+  position: relative;
+}
+
+.todo-title::after {
+  content: "";
+  width: 40px;
+  height: 3px;
+  background: #9cff57;
+  position: absolute;
+  left: 0;
+  bottom: -5px;
+  border-radius: 2px;
+}
+
+.todo-item {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin: 12px 0;
+}
+
+.todo-left {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.todo-left input {
+  width: 18px;
+  height: 18px;
+  cursor: pointer;
+}
+
+.todo-left span {
+  font-size: 16px;
+}
+
+.todo-left span.completed {
+  text-decoration: line-through;
+  color: gray;
+}
+
+.menu {
+  font-size: 20px;
+  color: gray;
+  cursor: pointer;
+}
+
+.add-btn {
+  margin-top: 15px;
+  width: 100%;
+  padding: 10px;
+  border: none;
+  border-radius: 12px;
+  background: #eaeaea;
+  font-size: 16px;
+  cursor: pointer;
+}
+
+.add-btn:hover {
+  background: #dcdcdc;
+}
