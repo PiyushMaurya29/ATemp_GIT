@@ -5,3 +5,6 @@ function greet(name) {
     return `Hello, ${name}!`;
 }
 console.log(greet('Alice'));
+
+const add = (x, y) => x + y;
+console.log(add(5, 3));
