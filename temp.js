@@ -5,3 +5,7 @@ console.log(a);
 function greet(name) {    return `Hello, ${name}!`;
 }console.log(greet('Alice'));
 console.log(greet('Bob'));
+
+function add(x, y) {
+    return x + y;
+}
