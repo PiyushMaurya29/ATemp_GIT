@@ -11,3 +11,5 @@ module.exports = { greet };
 
 
 let tempVariable = 42;
+console.log(`The answer is ${tempVariable}.`);
+// Feel free to modify or delete it as needed.
