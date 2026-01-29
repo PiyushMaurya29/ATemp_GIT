@@ -5,19 +5,5 @@ function greet(name) {
     return `Hello, ${name}!`;
 }
 
-console.log(greet('Alice'));
-console.log(greet('Bob'));
-
-const numbers = [1, 2, 3, 4, 5];
-const squaredNumbers = numbers.map(num => num * num);
-console.log(squaredNumbers);
-
-class Person {
-    constructor(name, age) {
-        this.name = name;
-        this.age = age;
-    } 
-    introduce() {
-        return `My name is ${this.name} and I am ${this.age} years old.`;
-    } 
-}
+let c = greet('Alice');
+console.log(c);
