@@ -6,4 +6,3 @@ let d = "YOU";
 
 let e = "dhdh";
 
-let t = "TEMP";
