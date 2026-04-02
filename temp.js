@@ -12,3 +12,5 @@ let abc = "dhdh";
 let zab = "jdjd";
 
 let cab = "CAB";
+
+let lab = "LAB";
