@@ -8,4 +8,3 @@ let e = "dhdh";
 
 let abc = "dhdh";
 
-let djdj = "djdj";
