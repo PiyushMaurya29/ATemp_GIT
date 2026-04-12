@@ -1,5 +1,5 @@
 package Temp.Temp2;
 
-public class IOrder {
-  
+interface IOrder {
+  void createOrder();
 }
