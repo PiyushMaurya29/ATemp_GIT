@@ -5,3 +5,5 @@ let c = '100';
 let d = "YOU";
 
 let p = "peek";
+
+let u = "pop";
