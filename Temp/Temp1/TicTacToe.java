@@ -25,7 +25,6 @@ class Player {
 }
 
 class Board {
-    private int size;
     private PieceType[][] board;
 
     public Board(int size) {
