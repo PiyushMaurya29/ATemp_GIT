@@ -32,7 +32,6 @@ class Board {
         this.size = size;
         board = new PieceType[size][size];
 
-        initializeBoard();
     }
 
     private void initializeBoard() {
