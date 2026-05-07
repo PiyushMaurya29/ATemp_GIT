@@ -10,8 +10,5 @@ let z = 'you';
 const values = [10, 20, 30, 40, 50];
 
 
-let you = "Fun";
-let enjoy = "ENJOY";
-let back = "Back";
 
 printArrayValues(values);
