@@ -25,12 +25,14 @@ class Player {
 }
 
 class Board {
+    private int size;
     private PieceType[][] board;
 
     public Board(int size) {
         this.size = size;
         board = new PieceType[size][size];
 
+        initializeBoard();
     }
 
     private void initializeBoard() {
